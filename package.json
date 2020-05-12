@@ -1,0 +1,18 @@
+{
+  "name": "simploop",
+  "version": "0.0.1",
+  "description": "Unlimited tools",
+  "main": "simploop.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-packager . simploop --win --out ../build --arch=x64 --electron-version=8.2.3 --overwrite --ignore=node_modules --download.mirrorOptions.mirror=https://npm.taobao.org/mirrors/electron"
+  },
+  "devDependencies": {
+    "electron": "^8.2.3",
+    "framework7": "^5.7.0",
+    "fs": "0.0.1-security",
+    "imap": "^0.8.19",
+    "mailparser": "^2.7.7",
+    "nodemailer": "^6.4.6"
+  }
+}

@@ -1,3 +1,11 @@
 # simploop
-Encrypted chat tool based on mailbox.
-ffff
+打造一个自由的工具
+完全为了不再看别人脸色活着
+
+# 聊天
+重点：
+1、不要依赖服务商提供聊天服务
+2、不要内容被各种审查
+
+# 桌面版：
+electron + framework7
